@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Web_Design&animation=fadeIn&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?text=Web_Design&animation=fadeIn&fontColor=333333&type=waving)
 
 
 <h1 align="center">Hi 👋, I'm hyein</h1>

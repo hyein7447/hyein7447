@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?text=front-end&animation=fadeIn)
+
+
 <h1 align="center">Hi 👋, I'm hyein</h1>
 <h3 align="center">:cupid:프론트엔드</h3>
 
